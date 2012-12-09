@@ -1,0 +1,6 @@
+# Compiled source
+*.py[cod]
+
+# Develop / Test
+foo.py
+*.bat
