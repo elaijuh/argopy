@@ -4,7 +4,7 @@ from distutils.core import setup
 from argo import __version__
 
 setup(name = 'argo',
-      version = argopy.__version__,
+      version = __version__,
       description = 'Python SDK for Argo BBS',
       long_description = open('README.md', 'r').read(),
       author = '@mopodo',
